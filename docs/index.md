@@ -25,8 +25,8 @@ The tutorials are prepared to guide you through different tasks related to the r
 ## Preparing for the tutorials
 The first step to follow the tutorials is to install the needed software and data. You find the instructions on [this page](installation)
 ## Tutorial tasks
-- Looking at the projection data using ImageJ
-- Your first reconstruction
+- [Looking at the projection data using ImageJ](https://youtu.be/36Ja8ZyxAxQ)
+- [Your first reconstruction](https://youtu.be/4sc78ed19P8)
 - Measuring the pixel size
 - Fine tuning the center of rotation
 - Removing artefacts
