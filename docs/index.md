@@ -16,5 +16,6 @@
   <td><a href="lectures/06_TomoPrinciple_Artifacts.pdf">Slides</a></td></tr>
 </table>
 
-# Preparing for the tutorials
+# Tutorials
+## Preparing for the tutorials
 The first step to follow the tutorials is to install the needed software and data. You find the instructions on [this page](installation)
