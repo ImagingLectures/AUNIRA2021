@@ -3,7 +3,7 @@ This page contains lecture and tutorial material on computed tomography for the 
 The material was prepared by Anders Kaestner.
 
 # Theory 
-
+This is a series of short lectures on different topics related to a pragmatic approach to computed tomography It will contain some math, but will not go on the depth. The purpose is to give a background in the used vocabulary to be able to understand the different problems that can arise when you start to work with computed tomography. 
 <table>
 <tr><th>Introduction</th><th>Radiography</th><th>Reconstruction</th><th>Geometry</th><th>Sampling</th><th>Artefacts</th></tr>
 <tr><td></td>
@@ -21,7 +21,7 @@ The material was prepared by Anders Kaestner.
 </table>
 
 # Tutorials
-
+The tutorials are prepared to guide you through different tasks related to the reconstruction and 
 ## Preparing for the tutorials
 The first step to follow the tutorials is to install the needed software and data. You find the instructions on [this page](installation)
 ## Tutorial tasks
