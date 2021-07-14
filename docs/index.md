@@ -1,3 +1,7 @@
+# Overview
+This page contains lecture and tutorial material on computed tomography for the AUNIRA 2021 training sessions.
+The material was prepared by Anders Kaestner.
+
 # Theory 
 
 <table>
@@ -17,5 +21,14 @@
 </table>
 
 # Tutorials
+
 ## Preparing for the tutorials
 The first step to follow the tutorials is to install the needed software and data. You find the instructions on [this page](installation)
+## Tutorial tasks
+- Looking at the projection data using ImageJ
+- Your first reconstruction
+- Measuring the pixel size
+- Fine tuning the center of rotation
+- Removing artefacts
+- Reconstructing the full volume
+- Basic rendering using TomVis
