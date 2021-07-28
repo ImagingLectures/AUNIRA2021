@@ -27,7 +27,7 @@ The first step to follow the tutorials is to install the needed software and dat
 ## Tutorial tasks
 - [Looking at the projection data using ImageJ](https://youtu.be/QQQ7RGn3-8E)
 - [Your first reconstruction](https://youtu.be/Z_bRxvJrOjc)
-- Measuring the pixel size
+- [Measuring the pixel size](https://youtu.be/sQCocQ73TLU) ([data](https://github.com/ImagingLectures/aunira2021/blob/main/data/pixelsize.zip))
 - Fine tuning the center of rotation
 - Removing artefacts
 - Reconstructing the full volume
