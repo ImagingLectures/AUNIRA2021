@@ -21,14 +21,61 @@ This is a series of short lectures on different topics related to a pragmatic ap
 </table>
 
 # Tutorials
-The tutorials are prepared to guide you through different tasks related to the reconstruction and 
+The tutorials are prepared to guide you through different tasks related to the reconstruction and some related image processing tasks. The tutorials are based on open source software. 
+
 ## Preparing for the tutorials
 The first step to follow the tutorials is to install the needed software and data. You find the instructions on [this page](installation)
+
 ## Tutorial tasks
-- [Looking at the projection data using ImageJ](https://youtu.be/QQQ7RGn3-8E)
-- [Your first reconstruction](https://youtu.be/Z_bRxvJrOjc)
-- [Measuring the pixel size](https://youtu.be/sQCocQ73TLU) ([data](https://github.com/ImagingLectures/aunira2021/blob/main/data/pixelsize.zip))
-- Fine tuning the center of rotation
-- Removing artefacts
-- Reconstructing the full volume
-- Basic rendering using TomVis
+### Looking at the projection data using ImageJ
+ImageJ is a "Swiss army knife" for image processing. We are going to take a look at some basic workflows you can perform with this tool.
+
+The objectives of this tutorial:
+- Getting started with ImageJ/FIJI
+- Opening images
+- Adjusting brightness and contrast
+- Removing spots
+- Pixelwise arithmetics applied on Beer-Lambert's law
+- Saving the result with a specified precision.
+
+[Tutorial video](https://youtu.be/QQQ7RGn3-8E)
+
+### Your first reconstruction
+MuhRec is an open source tomography reconstruction tool. 
+
+The objectives of this tutorial:
+- Getting started with MuhRec
+- Open projection data and set regions of interest
+- Define geometry (number of slices, acquisition arc, center of rotation)
+- Finalize reconstructed results (adjust levels, crop, rotate)
+- Save result.
+
+[Tutorial video](https://youtu.be/Z_bRxvJrOjc)
+
+### Measuring the pixel size
+The pixel size is essential for quantitative imaging. 
+
+The objectives of this tutorial:
+- How is the pixel size measured
+- Learn how to measure the pixel size using ImageJ
+- User the pixel size wizard in MuhRec.
+
+[Tutorial video](https://youtu.be/sQCocQ73TLU) ([data](https://github.com/ImagingLectures/aunira2021/blob/main/data/pixelsize.zip))
+
+### Fine tuning the center of rotation
+Finding the center of rotation is fundamental for high quality tomography reconstructions.
+
+The objectives of this tutorial:
+- Understand the what the center of rotation is.
+- A method to find the center.
+- Interpreting the reconstructed image and correcting misalignments.
+- Correcting for axis tilts.
+
+[Tutorial video](https://youtu.be/LlExCYuaPjU)
+
+### Removing artefacts
+
+
+### Reconstructing the full volume
+
+### Basic rendering using TomVis
