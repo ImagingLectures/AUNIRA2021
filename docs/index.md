@@ -9,7 +9,7 @@ This is a series of short lectures on different topics related to a pragmatic ap
 <tr><td></td>
   <td><img src="figures/raw.jpg" style="height:100px" /></td>
   <td><img src="figures/CTacq.svg" style="height:100px" /></td>
-  <td><img src="figures/GeometricUnsharpness.svg" style="width:100px" /></td>
+  <td><img src="figures/GeometricUnsharpness.svg" style="width:100px;text-align:center;vertical-align:middle" /></td>
   <td><img src="figures/grid.svg" style="width:100px" /></td>
   <td><img src="figures/ring_artifacts.png" style="height:100px" /></td></tr>  
 <tr><td><a href="lectures/01_TomoPrinciple_Introduction.pdf">Slides</a></td>
