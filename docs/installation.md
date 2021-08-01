@@ -4,7 +4,10 @@
 The execercises are based on open source software that should be downloaded and installed
 - [ImageJ](www.fiji.sc) Image viewer and manipulation. A user friendly Swiss army knife for interactive scientific image processing.
 - [MuhRec](https://github.com/neutronimaging/imagingsuite/releases/tag/v4.3-pre), an open source tool for reconstructing tomography projectinos into volume data.
-  - Follow the [installation instructions](https://github.com/neutronimaging/imagingsuite/wiki/User-manuals-MuhRec-Installation). There is also a [tutorial video](https://youtu.be/OP_uPeUgN0M) to guide you through the downloading and installation.
+  - Follow the [installation instructions](https://github.com/neutronimaging/imagingsuite/wiki/User-manuals-MuhRec-Installation). There is also a tutorial video to guide you through the downloading and installation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OP_uPeUgN0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - [TomVis](https://tomvis.org) a basic volume visualization tool to inspect our reconstructed data.
 
 ## Download data
