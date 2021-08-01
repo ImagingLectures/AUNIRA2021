@@ -38,8 +38,6 @@ The objectives of this tutorial:
 - Pixelwise arithmetics applied on Beer-Lambert's law
 - Saving the result with a specified precision.
 
-#### Tutorial video
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QQQ7RGn3-8E" title="Tomography tutorial 01 - Basic image processing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -52,8 +50,6 @@ The objectives of this tutorial:
 - Define geometry (number of slices, acquisition arc, center of rotation)
 - Finalize reconstructed results (adjust levels, crop, rotate)
 - Save result.
-
-#### Tutorial video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_bRxvJrOjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -68,8 +64,6 @@ The objectives of this tutorial:
 
 [Data for the tutorial](https://github.com/ImagingLectures/aunira2021/blob/main/data/pixelsize.zip)
 
-#### Tutorial video
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQCocQ73TLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Fine tuning the center of rotation
@@ -81,13 +75,17 @@ The objectives of this tutorial:
 - Interpreting the reconstructed image and correcting misalignments.
 - Correcting for axis tilts.
 
-#### Tutorial video
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlExCYuaPjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Removing artefacts
+Outliers and biases of different origins produce artefacts in the reconstructed images. In the following tutorials we will target some common artefacts you will come across when you reconstruct tomography data.
 
+#### Spots and lines
+
+#### Stripes and rings
+
+#### Biases caused by scattering
 
 ### Reconstructing the full volume
 Until now we have only reconstructed some few slices in our exercises. The next step is to reconstruct all data into a vloume that we save on disk.
@@ -98,8 +96,6 @@ The objectives of this tutorial:
 - File formats
 - Starting a reconstruction to disk
 - Inspecting the recosntructed volume in ImageJ.
-
-#### Tutorial video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wX4ulNdWqPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
