@@ -38,7 +38,10 @@ The objectives of this tutorial:
 - Pixelwise arithmetics applied on Beer-Lambert's law
 - Saving the result with a specified precision.
 
-[Tutorial video](https://youtu.be/QQQ7RGn3-8E)
+#### Tutorial video
+
+<iframe width="560" height="315" src="https://youtu.be/QQQ7RGn3-8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Your first reconstruction
 MuhRec is an open source tomography reconstruction tool. 
@@ -50,7 +53,9 @@ The objectives of this tutorial:
 - Finalize reconstructed results (adjust levels, crop, rotate)
 - Save result.
 
-[Tutorial video](https://youtu.be/Z_bRxvJrOjc)
+#### Tutorial video
+
+<iframe width="560" height="315" src="https://youtu.be/Z_bRxvJrOjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Measuring the pixel size
 The pixel size is essential for quantitative imaging. 
@@ -60,7 +65,11 @@ The objectives of this tutorial:
 - Learn how to measure the pixel size using ImageJ
 - User the pixel size wizard in MuhRec.
 
-[Tutorial video](https://youtu.be/sQCocQ73TLU) ([data](https://github.com/ImagingLectures/aunira2021/blob/main/data/pixelsize.zip))
+[Data for the tutorial](https://github.com/ImagingLectures/aunira2021/blob/main/data/pixelsize.zip)
+
+#### Tutorial video
+
+<iframe width="560" height="315" src="https://youtu.be/sQCocQ73TLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Fine tuning the center of rotation
 Finding the center of rotation is fundamental for high quality tomography reconstructions.
@@ -71,7 +80,7 @@ The objectives of this tutorial:
 - Interpreting the reconstructed image and correcting misalignments.
 - Correcting for axis tilts.
 
-[Tutorial video](https://youtu.be/LlExCYuaPjU)
+#### Tutorial video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlExCYuaPjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -79,7 +88,18 @@ The objectives of this tutorial:
 
 
 ### Reconstructing the full volume
+Until now we have only reconstructed some few slices in our exercises. The next step is to reconstruct all data into a vloume that we save on disk.
 
-[Tutorial video](https://youtu.be/cT-FcfVj3EM)
+The objectives of this tutorial:
+- Learn the difference between reconstructing to memory or disk.
+- Memory requirements
+- File formats
+- Starting a reconstruction to disk
+- Inspecting the recosntructed volume in ImageJ.
+
+#### Tutorial video
+
+<iframe width="560" height="315" src="https://youtu.be/cT-FcfVj3EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Basic rendering using TomVis
