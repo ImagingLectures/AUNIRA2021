@@ -57,6 +57,7 @@ The objectives of this tutorial:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_bRxvJrOjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ### Measuring the pixel size
 The pixel size is essential for quantitative imaging. 
 
@@ -83,6 +84,7 @@ The objectives of this tutorial:
 #### Tutorial video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlExCYuaPjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Removing artefacts
 
