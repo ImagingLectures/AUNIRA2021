@@ -82,6 +82,13 @@ The objectives of this tutorial:
 Outliers and biases of different origins produce artefacts in the reconstructed images. In the following tutorials we will target some common artefacts you will come across when you reconstruct tomography data.
 
 #### Spots and lines
+Tutorial objectives:
+- Introducing the spots
+- Why we have to remove the spots
+- A basic spot removal algorithm
+- Spot removal in MuhRec
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3ovNyDPQEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Stripes and rings
 
