@@ -40,7 +40,7 @@ The objectives of this tutorial:
 
 #### Tutorial video
 
-<iframe width="560" height="315" src="https://youtu.be/QQQ7RGn3-8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QQQ7RGn3-8E" title="Tomography tutorial 01 - Basic image processing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Your first reconstruction
@@ -55,7 +55,7 @@ The objectives of this tutorial:
 
 #### Tutorial video
 
-<iframe width="560" height="315" src="https://youtu.be/Z_bRxvJrOjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z_bRxvJrOjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Measuring the pixel size
 The pixel size is essential for quantitative imaging. 
@@ -69,7 +69,7 @@ The objectives of this tutorial:
 
 #### Tutorial video
 
-<iframe width="560" height="315" src="https://youtu.be/sQCocQ73TLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sQCocQ73TLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Fine tuning the center of rotation
 Finding the center of rotation is fundamental for high quality tomography reconstructions.
@@ -99,7 +99,7 @@ The objectives of this tutorial:
 
 #### Tutorial video
 
-<iframe width="560" height="315" src="https://youtu.be/cT-FcfVj3EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cT-FcfVj3EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Basic rendering using TomVis
