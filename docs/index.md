@@ -7,11 +7,11 @@ This is a series of short lectures on different topics related to a pragmatic ap
 <table>
 <tr><th>Introduction</th><th>Radiography</th><th>Reconstruction</th><th>Geometry</th><th>Sampling</th><th>Artefacts</th></tr>
 <tr><td></td>
-  <td><img src="figures/raw.jpg" style="height:100px" /></td>
-  <td><img src="figures/CTacq.svg" style="height:100px" /></td>
-  <td><img src="figures/GeometricUnsharpness.svg" style="width:100px;text-align:center;vertical-align:middle" /></td>
-  <td><img src="figures/grid.svg" style="width:100px" /></td>
-  <td><img src="figures/ring_artifacts.png" style="height:100px" /></td></tr>  
+  <td><img src="figures/raw.jpg" style="height:100px;text-align:center;vertical-align:middle" /></td>
+  <td><img src="figures/CTacq.svg" style="height:100px;text-align:center;vertical-align:middle" /></td>
+  <td><img src="figures/GeometricUnsharpness.svg" style="width:125px;text-align:center;vertical-align:middle" /></td>
+  <td><img src="figures/grid.svg" style="width:125px;text-align:center;vertical-align:middle" /></td>
+  <td><img src="figures/ring_artifacts.png" style="height:100px;text-align:center;vertical-align:middle" /></td></tr>  
 <tr><td><a href="lectures/01_TomoPrinciple_Introduction.pdf">Slides</a></td>
   <td><a href="lectures/02_TomoPrinciple_Radiography.pdf">Slides</a></td>
   <td><a href="lectures/03_TomoPrinciple_Reconstruction.pdf">Slides</a></td>
