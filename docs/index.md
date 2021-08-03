@@ -91,6 +91,14 @@ Tutorial objectives:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3ovNyDPQEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Stripes and rings
+Tutorial objectives:
+- Ring artefacts in slices and sinograms
+- How do you get a sinogram
+- Basic ring cleaning
+- Advanced ring cleaning using wavelets and fourier filters
+- Ring cleaning in MuhRec 
+- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lLEoa5JAIhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Biases caused by scattering
 
