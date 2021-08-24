@@ -101,6 +101,19 @@ Tutorial objectives:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lLEoa5JAIhw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Biases caused by scattering
+This exercise requires a new data set which you can download from [zenodo](https://doi.org/10.5281/zenodo.1346094).
+Here are some publications, if you want to know more about the correction:
+- [Boillat et al., Optics Express, 2018](https://doi.org/10.1364/OE.26.015769)
+- [Carminati et al., PloS one, 2019](https://doi.org/10.1371/journal.pone.0210300)
+
+Tutorial objectives:
+- Understanding how scattering affects the image quality
+- How a correction method works
+- Additional measurements needed for scattering correction
+- Scattering correction in MuhRec
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Reconstructing the full volume
 Until now we have only reconstructed some few slices in our exercises. The next step is to reconstruct all data into a vloume that we save on disk.
