@@ -8,7 +8,7 @@ The execercises are based on open source software that should be downloaded and 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OP_uPeUgN0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [TomVis](https://tomvis.org) a basic volume visualization tool to inspect our reconstructed data.
+- [TomVis](https://tomviz.org/) a basic volume visualization tool to inspect our reconstructed data.
 
 ## Download data
 - [Tomography projection data](https://data.mendeley.com/datasets/g5snr785xy/2), we will mainly use this data for the tutorials.
