@@ -110,9 +110,12 @@ Tutorial objectives:
 - Understanding how scattering affects the image quality
 - How a correction method works
 - Additional measurements needed for scattering correction
+- Adding a process module in MuhRec's processing pipeline
 - Scattering correction in MuhRec
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video still has to be produced.
+
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/xyz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 
 ### Reconstructing the full volume
@@ -129,3 +132,5 @@ The objectives of this tutorial:
 
 
 ### Basic rendering using TomVis
+
+Video still has to be produced.
