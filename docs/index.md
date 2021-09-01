@@ -113,10 +113,7 @@ Tutorial objectives:
 - Adding a process module in MuhRec's processing pipeline
 - Scattering correction in MuhRec
 
-Video still has to be produced.
-
-<!-- <iframe width="560" height="315" src="https://youtu.be/xnfE0mVxnJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xnfE0mVxnJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Reconstructing the full volume
 Until now we have only reconstructed some few slices in our exercises. The next step is to reconstruct all data into a vloume that we save on disk.
